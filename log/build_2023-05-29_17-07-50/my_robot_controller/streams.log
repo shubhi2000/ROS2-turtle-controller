@@ -1,0 +1,18 @@
+[1.191s] Invoking command in '/home/shubhi/Documents/ros2_ws/build/my_robot_controller': PYTHONPATH=/home/shubhi/Documents/ros2_ws/build/my_robot_controller/prefix_override:/home/shubhi/Documents/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/shubhi/Documents/ros2_ws/build/my_robot_controller/build --no-deps install_data
+[1.626s] running develop
+[1.839s] running egg_info
+[1.839s] writing my_robot_controller.egg-info/PKG-INFO
+[1.839s] writing dependency_links to my_robot_controller.egg-info/dependency_links.txt
+[1.839s] writing entry points to my_robot_controller.egg-info/entry_points.txt
+[1.839s] writing requirements to my_robot_controller.egg-info/requires.txt
+[1.840s] writing top-level names to my_robot_controller.egg-info/top_level.txt
+[1.841s] reading manifest file 'my_robot_controller.egg-info/SOURCES.txt'
+[1.843s] writing manifest file 'my_robot_controller.egg-info/SOURCES.txt'
+[1.845s] running build_ext
+[1.845s] Creating /home/shubhi/Documents/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages/my-robot-controller.egg-link (link to .)
+[1.846s] Installing test_node = my_robot_controller.my_first_node:maindraw_circle script to /home/shubhi/Documents/ros2_ws/install/my_robot_controller/lib/my_robot_controller
+[1.847s] 
+[1.847s] Installed /home/shubhi/Documents/ros2_ws/build/my_robot_controller
+[1.847s] running install_data
+[1.847s] copying package.xml -> /home/shubhi/Documents/ros2_ws/install/my_robot_controller/share/my_robot_controller
+[1.881s] Invoked command in '/home/shubhi/Documents/ros2_ws/build/my_robot_controller' returned '0': PYTHONPATH=/home/shubhi/Documents/ros2_ws/build/my_robot_controller/prefix_override:/home/shubhi/Documents/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/shubhi/Documents/ros2_ws/build/my_robot_controller/build --no-deps install_data
